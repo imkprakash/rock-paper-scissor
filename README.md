@@ -1,4 +1,4 @@
-This application is a Rock - Paper - Scissors game that is build using C#, .NET and MAUI.
+This application is a Rock - Paper - Scissors game that is built using C#, .NET and MAUI.
 This is a single player application and the user plays against the computer.
 
 This application is cross platform and can be run on various operating systems. However, the assets consist of only apk file which can be used to install this application on android.
